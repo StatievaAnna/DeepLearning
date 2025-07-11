@@ -1,1 +1,5 @@
 Для запуска обучения энкодера, а затем классификаторов, запустить файл run.py
+
+Ссылки на веса моделей: 
+best.pt https://drive.google.com/file/d/1YuCWEy0QiS6YO-Hm2KhccF4ZROuqSfmG/view?usp=sharing
+last.pt https://drive.google.com/file/d/10G2H5Lw3zc8s68NUDtuZcjqE4HdO2_B-/view?usp=sharing

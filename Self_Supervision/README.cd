@@ -12,7 +12,3 @@
 - Реализация prototypical network - модели для задач few-shot learning, где для классификации данных 
 используется ограниченное число примеров. Задание является воспроизведение результатов статьи 
 [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175v2.pdf)
-
-Ссылки на веса моделей: 
-best.pt https://drive.google.com/file/d/1YuCWEy0QiS6YO-Hm2KhccF4ZROuqSfmG/view?usp=sharing
-last.pt https://drive.google.com/file/d/10G2H5Lw3zc8s68NUDtuZcjqE4HdO2_B-/view?usp=sharing

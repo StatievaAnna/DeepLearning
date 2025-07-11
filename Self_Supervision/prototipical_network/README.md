@@ -151,3 +151,5 @@ Only in training mode. Prototypical Networks use log-softmax loss, which is noth
     <td>98.9%</td>
   </tr>
 </table>
+
+Веса обученной модели: https://drive.google.com/file/d/1giOEZuEe7xNucyYbg8z4mANaP94cOVJo/view?usp=sharing
