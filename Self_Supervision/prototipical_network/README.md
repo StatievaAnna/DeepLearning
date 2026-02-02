@@ -1,8 +1,3 @@
-
-  - [1. Постановка задачи - Prototypical Networks]
-    - [1.2. Исходные данные. Набор данных Омниглот]
-    - [1.3. Реализация ProtoNet для Omniglot]
-
 ## 1. Постановка задачи - Prototypical Networks
 
 **Prototypical Networks** были введены Snell et al. в 2017 г. (https://arxiv.org/abs/1703.05175).
