@@ -1,8 +1,11 @@
-03_Attention/seminar/wandb/*
-03_Attention/seminar/model.pt
-01_Pytorch_NN/homework/CIFAR10/test/cifar-10-python.tar.gz
-# Self_Supervision/prototipical_network/model.pt
+Attention/seminar/wandb/*
+Attention/summarizer/model_without_pretrain_embs.pt 
+Attention/summarizer/model_with_pretrain_embs.pt   
+Pytorch_NN/homework/CIFAR10/test/cifar-10-python.tar.gz
+Self_Supervision/prototipical_network/model.pt
 Self_Supervision/simclr/best.pt
 Self_Supervision/simclr/last.pt
-01_Pytorch_NN
-
+Pytorch_NN_tests
+Attention
+RL_base
+Detection
