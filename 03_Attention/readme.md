@@ -1,9 +1,3 @@
-# Неделя 5: Attention
-
-* Лекция: [слайды](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/05_Attention/lec5.pdf), [запись]()
-* Семинар: [содержание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/05_Attention/seminar/Transformers_solved.ipynb), [запись]()
-* Домашняя работа: [описание](https://github.com/ml-dafe/ml_mipt_dafe/blob/main/05_Attention/homework/readme.md)
-
 ## Литература
 
 * Illustrated transformer [post](https://jalammar.github.io/illustrated-transformer/)
