@@ -1,0 +1,33 @@
+2025-05-25 05:31:15,020 INFO    MainThread:1217 [wandb_setup.py:_flush():70] Current SDK version is 0.19.11
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_setup.py:_flush():70] Configure stats pid to 1217
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_setup.py:_flush():70] Loading settings from /root/.config/wandb/settings
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_setup.py:_flush():70] Loading settings from /content/wandb/settings
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_setup.py:_flush():70] Loading settings from environment variables
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_init.py:setup_run_log_directory():724] Logging user logs to wandb_logs/wandb/run-20250525_053115-a6z68exb/logs/debug.log
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to wandb_logs/wandb/run-20250525_053115-a6z68exb/logs/debug-internal.log
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_init.py:init():852] calling init triggers
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_init.py:init():893] starting backend
+2025-05-25 05:31:15,021 INFO    MainThread:1217 [wandb_init.py:init():897] sending inform_init request
+2025-05-25 05:31:15,029 INFO    MainThread:1217 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-05-25 05:31:15,030 INFO    MainThread:1217 [wandb_init.py:init():907] backend started and connected
+2025-05-25 05:31:15,032 INFO    MainThread:1217 [wandb_init.py:init():1005] updated telemetry
+2025-05-25 05:31:15,032 INFO    MainThread:1217 [wandb_init.py:init():1029] communicating run to backend with 90.0 second timeout
+2025-05-25 05:31:15,679 INFO    MainThread:1217 [wandb_init.py:init():1104] starting run threads in backend
+2025-05-25 05:31:16,514 INFO    MainThread:1217 [wandb_run.py:_console_start():2573] atexit reg
+2025-05-25 05:31:16,515 INFO    MainThread:1217 [wandb_run.py:_redirect():2421] redirect: wrap_raw
+2025-05-25 05:31:16,515 INFO    MainThread:1217 [wandb_run.py:_redirect():2490] Wrapping output streams.
+2025-05-25 05:31:16,515 INFO    MainThread:1217 [wandb_run.py:_redirect():2513] Redirects installed.
+2025-05-25 05:31:16,521 INFO    MainThread:1217 [wandb_init.py:init():1150] run started, returning control to user process
+2025-05-25 05:31:54,173 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:31:56,063 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:31:58,451 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:32:00,518 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:32:03,313 INFO    MainThread:1217 [wandb_run.py:_finish():2321] finishing run statieva-ad-mipt/pytest_tests/a6z68exb
+2025-05-25 05:32:03,314 INFO    MainThread:1217 [wandb_run.py:_atexit_cleanup():2538] got exitcode: 0
+2025-05-25 05:32:03,314 INFO    MainThread:1217 [wandb_run.py:_restore():2520] restore
+2025-05-25 05:32:03,314 INFO    MainThread:1217 [wandb_run.py:_restore():2526] restore done
+2025-05-25 05:32:05,142 INFO    MainThread:1217 [wandb_run.py:_footer_history_summary_info():4188] rendering history
+2025-05-25 05:32:05,143 INFO    MainThread:1217 [wandb_run.py:_footer_history_summary_info():4220] rendering summary
+2025-05-25 05:32:05,143 INFO    MainThread:1217 [wandb_run.py:_footer_sync_info():4149] logging synced files

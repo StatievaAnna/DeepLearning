@@ -1,0 +1,6 @@
+100%|██████████| 170M/170M [00:12<00:00, 13.4MB/s] 
+100%|██████████| 170M/170M [00:13<00:00, 12.9MB/s] 
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:02<00:00,  1.33s/it]
+                                                      

@@ -1,0 +1,29 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.12, pytest-8.3.5, pluggy-1.5.0
+rootdir: /content
+plugins: cov-6.1.1, anyio-4.9.0, typeguard-4.4.2, langsmith-0.3.42
+collected 112 items
+
+test_pipeline.py ....................................................... [ 49%]
+.........................................................                [100%]
+
+=============================== warnings summary ===============================
+test_pipeline.py: 104 warnings
+  /usr/local/lib/python3.11/dist-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+    warnings.warn(
+
+test_pipeline.py: 104 warnings
+  /usr/local/lib/python3.11/dist-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+    warnings.warn(msg)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.11.12-final-0 _______________
+
+Name       Stmts   Miss  Cover
+------------------------------
+train.py      81      1    99%
+------------------------------
+TOTAL         81      1    99%
+Coverage HTML written to dir htmlcov
+================ 112 passed, 208 warnings in 1517.44s (0:25:17) ================

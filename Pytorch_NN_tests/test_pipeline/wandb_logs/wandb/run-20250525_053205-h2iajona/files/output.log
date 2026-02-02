@@ -1,0 +1,735 @@
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.81s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:06<00:06,  6.23s/it]     wandb: WARNING Tried to log to step 8 that is less than the current step 51606. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51606. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51606. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51606. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51606. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.77s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:03<00:03,  3.85s/it]    wandb: WARNING Tried to log to step 16 that is less than the current step 51610. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51610. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51610. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.39s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.65s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]   wandb: WARNING Tried to log to step 32 that is less than the current step 51618. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51618. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 4 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.58s/it]     wandb: WARNING Tried to log to step 1604 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.69s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 51204 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51620. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 8 that is less than the current step 51622. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.81s/it]
+wandb: WARNING Tried to log to step 808 that is less than the current step 51622. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51622. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51622. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51622. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51622. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:05<00:00,  2.97s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51624. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51624. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51624. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51624. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.86s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 32 that is less than the current step 51626. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51626. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.82wandb: WARNING Tried to log to step 404 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 50004 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.77s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 51604 that is less than the current step 51628. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 8 that is less than the current step 51630. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51630. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.95s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]   wandb: WARNING Tried to log to step 1608 that is less than the current step 51630. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51630. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51630. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51630. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:07<00:00,  3.69s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]           wandb: WARNING Tried to log to step 16 that is less than the current step 51632. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51632. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51632. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51632. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51634. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.73s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 50032 that is less than the current step 51634. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 13.00s/it]    wandb: WARNING Tried to log to step 804 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 50404 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51636. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:26<00:00, 13.21s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 8 that is less than the current step 51638. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51638. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51638. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.90s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 50008 that is less than the current step 51638. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51638. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51638. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51640. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.04s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:01<00:01,  1.62s/it]  wandb: WARNING Tried to log to step 1616 that is less than the current step 51640. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51640. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51640. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51642. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51642. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.67s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 4 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.93s/it]     wandb: WARNING Tried to log to step 1204 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.85s/it]
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51644. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:06<00:06,  6.22s/it]    wandb: WARNING Tried to log to step 8 that is less than the current step 51646. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51646. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51646. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51646. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.88s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 50808 that is less than the current step 51646. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51646. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51648. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51648. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.45s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.76s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51648. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51648. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51650. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51650. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 4 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.43s/it]     wandb: WARNING Tried to log to step 1604 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.73s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51652. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:05<00:05,  5.56s/it]     wandb: WARNING Tried to log to step 8 that is less than the current step 51654. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51654. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51654. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51654. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51654. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.97s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:02<00:02,  2.96s/it]    wandb: WARNING Tried to log to step 51608 that is less than the current step 51654. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51656. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51656. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51656. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.12s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.68s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]   wandb: WARNING Tried to log to step 51616 that is less than the current step 51656. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51658. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51658. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 4 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:13<00:13, 13.08s/it]     wandb: WARNING Tried to log to step 1604 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:26<00:00, 13.04s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 51204 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51660. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 8 that is less than the current step 51662. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:06<00:06,  6.29s/it]     wandb: WARNING Tried to log to step 808 that is less than the current step 51662. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51662. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51662. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51662. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51662. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.87s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.26s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51664. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51664. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51664. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51664. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.83s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 32 that is less than the current step 51666. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51666. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 404 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.79s/it]     wandb: WARNING Tried to log to step 50004 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.84s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 51604 that is less than the current step 51668. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 8 that is less than the current step 51670. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51670. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.87s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51670. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51670. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51670. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51670. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.09s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]  wandb: WARNING Tried to log to step 16 that is less than the current step 51672. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51672. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51672. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51672. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.66s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 32 that is less than the current step 51674. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51674. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.71s/it]    wandb: WARNING Tried to log to step 804 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 50404 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51676. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.86s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 8 that is less than the current step 51678. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51678. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51678. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.97s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 50008 that is less than the current step 51678. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51678. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51678. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51680. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.40s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:01<00:01,  1.74s/it]  wandb: WARNING Tried to log to step 1616 that is less than the current step 51680. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51680. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51680. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51682. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51682. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.95s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 4 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.97s/it]    wandb: WARNING Tried to log to step 804 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.96s/it]
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51684. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:05<00:05,  5.58s/it]    wandb: WARNING Tried to log to step 8 that is less than the current step 51686. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51686. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51686. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51686. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.99s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 50808 that is less than the current step 51686. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51686. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51688. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.50s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:01<00:01,  1.75s/it]   wandb: WARNING Tried to log to step 1616 that is less than the current step 51688. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51688. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51688. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51690. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51690. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.72s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 4 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.85s/it]     wandb: WARNING Tried to log to step 1204 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.92s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51692. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:05<00:05,  5.84s/it]    wandb: WARNING Tried to log to step 8 that is less than the current step 51694. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51694. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51694. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51694. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.60s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:03<00:03,  3.04s/it]    wandb: WARNING Tried to log to step 50808 that is less than the current step 51694. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51694. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51696. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51696. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51696. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:05<00:00,  2.99s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:04<00:00,  2.06s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51696. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51698. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51698. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 4 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.88s/it]     wandb: WARNING Tried to log to step 1604 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.86s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]   wandb: WARNING Tried to log to step 51204 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51700. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:05<00:05,  5.74s/it]     wandb: WARNING Tried to log to step 8 that is less than the current step 51702. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51702. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51702. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51702. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51702. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.92s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:02<00:02,  2.94s/it]    wandb: WARNING Tried to log to step 51608 that is less than the current step 51702. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51704. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51704. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51704. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.39s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.67s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 51616 that is less than the current step 51704. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51706. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51706. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 404 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.74s/it]     wandb: WARNING Tried to log to step 50004 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.85s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 51204 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51708. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 8 that is less than the current step 51710. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.70s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51710. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51710. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51710. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51710. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51710. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:05<00:00,  2.90s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]  wandb: WARNING Tried to log to step 16 that is less than the current step 51712. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51712. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51712. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51712. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:04<00:00,  2.04s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 32 that is less than the current step 51714. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51714. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.92wandb: WARNING Tried to log to step 804 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 50004 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.90s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 51604 that is less than the current step 51716. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 8 that is less than the current step 51718. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51718. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51718. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.86s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]           wandb: WARNING Tried to log to step 50008 that is less than the current step 51718. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51718. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51718. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51720. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.44s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]           wandb: WARNING Tried to log to step 1616 that is less than the current step 51720. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51720. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51720. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51722. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.67s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 50032 that is less than the current step 51722. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.93s/it]     wandb: WARNING Tried to log to step 804 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.94s/it]
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51724. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:05<00:05,  5.94s/it]    wandb: WARNING Tried to log to step 8 that is less than the current step 51726. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51726. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51726. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51726. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.77s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 50808 that is less than the current step 51726. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51726. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51728. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:05<00:00,  2.94s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:01<00:01,  1.86s/it]   wandb: WARNING Tried to log to step 1616 that is less than the current step 51728. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51728. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51728. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51730. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51730. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:04<00:00,  2.15s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 4 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.94s/it]     wandb: WARNING Tried to log to step 1204 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.95s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51732. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:06<00:06,  6.01s/it]    wandb: WARNING Tried to log to step 8 that is less than the current step 51734. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51734. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51734. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51734. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.99s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:03<00:03,  3.18s/it]    wandb: WARNING Tried to log to step 50808 that is less than the current step 51734. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51734. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51736. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51736. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51736. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:07<00:00,  3.53s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.71s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51736. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51738. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51738. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 4 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.80s/it]     wandb: WARNING Tried to log to step 1604 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.86s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]   wandb: WARNING Tried to log to step 50804 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51740. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:05<00:05,  5.57s/it]     wandb: WARNING Tried to log to step 8 that is less than the current step 51742. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51742. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51742. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51742. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51742. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.78s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:03<00:03,  3.03s/it]    wandb: WARNING Tried to log to step 51608 that is less than the current step 51742. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51744. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51744. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51744. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51744. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:05<00:00,  2.99s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:04<00:00,  2.11s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]   wandb: WARNING Tried to log to step 32 that is less than the current step 51746. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51746. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 4 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.90s/it]     wandb: WARNING Tried to log to step 1604 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.92s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 51204 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51748. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 8 that is less than the current step 51750. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.92s/it]
+wandb: WARNING Tried to log to step 808 that is less than the current step 51750. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51750. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51750. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51750. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51750. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:07<00:00,  3.55s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51752. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51752. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51752. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51752. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.71s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 32 that is less than the current step 51754. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51754. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 404 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.85s/it]     wandb: WARNING Tried to log to step 50004 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.89s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 51604 that is less than the current step 51756. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 8 that is less than the current step 51758. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51758. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.90s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51758. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51758. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51758. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51758. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:05<00:00,  2.99s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]  wandb: WARNING Tried to log to step 16 that is less than the current step 51760. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51760. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51760. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51760. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.89s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 32 that is less than the current step 51762. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51762. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.76s/it]    wandb: WARNING Tried to log to step 804 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 50404 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51764. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.85s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 8 that is less than the current step 51766. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51766. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51766. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.85s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 50008 that is less than the current step 51766. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51766. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51766. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51768. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.49s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:01<00:01,  1.7wandb: WARNING Tried to log to step 1616 that is less than the current step 51768. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51768. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51768. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51770. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.71s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 50032 that is less than the current step 51770. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.47s/it]    wandb: WARNING Tried to log to step 804 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.55s/it]
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51772. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:05<00:05,  5.43s/it]    wandb: WARNING Tried to log to step 8 that is less than the current step 51774. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51774. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51774. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51774. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.81s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:02<00:02,  2.93s/it]   wandb: WARNING Tried to log to step 50808 that is less than the current step 51774. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51774. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51776. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51776. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51776. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:05<00:00,  2.92s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.91s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51776. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51778. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51778. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 4 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.63s/it]     wandb: WARNING Tried to log to step 1604 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.72s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]   wandb: WARNING Tried to log to step 51204 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51780. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:06<00:06,  6.19s/it]     wandb: WARNING Tried to log to step 8 that is less than the current step 51782. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51782. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51782. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51782. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51782. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.76s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:03<00:03,  3.55s/it]     wandb: WARNING Tried to log to step 51608 that is less than the current step 51782. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51784. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51784. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51784. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51784. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.42s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.73s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 32 that is less than the current step 51786. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51786. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 404 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.63s/it]     wandb: WARNING Tried to log to step 50004 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.65s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 51604 that is less than the current step 51788. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 8 that is less than the current step 51790. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51790. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.83s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51790. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51790. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51790. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51790. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:05<00:00,  2.90s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]  wandb: WARNING Tried to log to step 16 that is less than the current step 51792. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51792. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51792. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51792. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.97s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 32 that is less than the current step 51794. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51794. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 4 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.66s/it]    wandb: WARNING Tried to log to step 804 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1204 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+                                                          wandb: WARNING Tried to log to step 50404 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51796. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.69s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 8 that is less than the current step 51798. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51798. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51798. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.76s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]            wandb: WARNING Tried to log to step 50008 that is less than the current step 51798. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51798. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51608 that is less than the current step 51798. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51800. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:06<00:00,  3.41s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:01<00:01,  1.64s/it]   wandb: WARNING Tried to log to step 1616 that is less than the current step 51800. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51800. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51616 that is less than the current step 51800. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 32 that is less than the current step 51802. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50032 that is less than the current step 51802. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:03<00:00,  1.63s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:   0%|          | 0/2 [00:00<?, ?it/s]             wandb: WARNING Tried to log to step 4 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 404 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 804 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:12<00:12, 12.84s/it]     wandb: WARNING Tried to log to step 1204 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1604 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50004 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50404 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:25<00:00, 12.73s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+wandb: WARNING Tried to log to step 50804 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51204 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 51604 that is less than the current step 51804. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs:  50%|█████     | 1/2 [00:05<00:05,  5.47s/it]     wandb: WARNING Tried to log to step 8 that is less than the current step 51806. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 808 that is less than the current step 51806. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1608 that is less than the current step 51806. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50008 that is less than the current step 51806. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50808 that is less than the current step 51806. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:11<00:00,  5.67s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs:  50%|█████     | 1/2 [00:02<00:02,  2.92s/it]    wandb: WARNING Tried to log to step 51608 that is less than the current step 51806. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 16 that is less than the current step 51808. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 1616 that is less than the current step 51808. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+wandb: WARNING Tried to log to step 50016 that is less than the current step 51808. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Epochs: 100%|██████████| 2/2 [00:05<00:00,  2.91s/it]
+wandb: wandb.init() called while a run is active and reinit is set to 'default', so returning the previous run.
+Epochs: 100%|██████████| 2/2 [00:04<00:00,  2.08s/it]
+                                                        

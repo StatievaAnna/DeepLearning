@@ -1,0 +1,6 @@
+2025-05-25 05:55:46,382 INFO    MainThread:1217 [wandb_init.py:setup_run_log_directory():724] Logging user logs to wandb_logs/wandb/run-20250525_055546-f14zjdsi/logs/debug.log
+2025-05-25 05:55:46,383 INFO    MainThread:1217 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to wandb_logs/wandb/run-20250525_055546-f14zjdsi/logs/debug-internal.log
+2025-05-25 05:55:46,383 INFO    MainThread:1217 [wandb_init.py:init():852] calling init triggers
+2025-05-25 05:55:46,384 INFO    MainThread:1217 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'batch_size': 8, 'learning_rate': 0.0001, 'weight_decay': 0.001, 'epochs': 2, 'zero_init_residual': False, 'train_size': 2000, 'test_size': 1000, '_wandb': {}}
+2025-05-25 05:56:20,837 INFO    MsgRouterThr:1217 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 2 handles.

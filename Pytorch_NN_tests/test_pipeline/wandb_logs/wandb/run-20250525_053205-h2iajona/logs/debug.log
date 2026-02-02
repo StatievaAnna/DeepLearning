@@ -1,0 +1,124 @@
+2025-05-25 05:32:05,149 INFO    MainThread:1217 [wandb_init.py:setup_run_log_directory():724] Logging user logs to wandb_logs/wandb/run-20250525_053205-h2iajona/logs/debug.log
+2025-05-25 05:32:05,150 INFO    MainThread:1217 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to wandb_logs/wandb/run-20250525_053205-h2iajona/logs/debug-internal.log
+2025-05-25 05:32:05,150 INFO    MainThread:1217 [wandb_init.py:init():852] calling init triggers
+2025-05-25 05:32:05,150 INFO    MainThread:1217 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'batch_size': 4, 'learning_rate': 0.01, 'weight_decay': 0.0, 'epochs': 2, 'zero_init_residual': False, 'train_size': 2000, 'test_size': 1000, '_wandb': {}}
+2025-05-25 05:32:05,150 INFO    MainThread:1217 [wandb_init.py:init():893] starting backend
+2025-05-25 05:32:05,150 INFO    MainThread:1217 [wandb_init.py:init():897] sending inform_init request
+2025-05-25 05:32:05,151 INFO    MainThread:1217 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-05-25 05:32:05,151 INFO    MainThread:1217 [wandb_init.py:init():907] backend started and connected
+2025-05-25 05:32:05,152 INFO    MainThread:1217 [wandb_init.py:init():1005] updated telemetry
+2025-05-25 05:32:05,153 INFO    MainThread:1217 [wandb_init.py:init():1029] communicating run to backend with 90.0 second timeout
+2025-05-25 05:32:05,778 INFO    MainThread:1217 [wandb_init.py:init():1104] starting run threads in backend
+2025-05-25 05:32:06,654 INFO    MainThread:1217 [wandb_run.py:_console_start():2573] atexit reg
+2025-05-25 05:32:06,655 INFO    MainThread:1217 [wandb_run.py:_redirect():2421] redirect: wrap_raw
+2025-05-25 05:32:06,655 INFO    MainThread:1217 [wandb_run.py:_redirect():2490] Wrapping output streams.
+2025-05-25 05:32:06,655 INFO    MainThread:1217 [wandb_run.py:_redirect():2513] Redirects installed.
+2025-05-25 05:32:06,656 INFO    MainThread:1217 [wandb_init.py:init():1150] run started, returning control to user process
+2025-05-25 05:32:08,431 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:32:36,961 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:32:51,059 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:33:00,154 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:33:05,918 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:33:34,667 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:33:48,804 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:33:57,307 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:34:03,227 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:34:31,630 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:34:46,152 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:34:55,929 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:35:01,861 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:35:31,399 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:35:45,736 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:35:54,491 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:36:00,053 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:36:28,673 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:36:43,114 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:36:52,353 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:36:58,497 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:37:26,981 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:37:41,462 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:37:50,394 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:37:55,993 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:38:25,035 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:38:39,517 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:38:48,395 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:38:54,579 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:39:23,193 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:39:37,447 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:39:46,274 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:39:51,820 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:40:20,512 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:40:35,196 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:40:44,327 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:40:50,735 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:41:19,601 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:41:34,159 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:41:43,503 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:41:49,196 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:42:18,272 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:42:32,486 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:42:40,825 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:42:47,379 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:43:16,043 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:43:30,361 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:43:39,453 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:43:44,987 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:44:13,906 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:44:28,312 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:44:36,447 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:44:42,986 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:45:11,735 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:45:25,966 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:45:35,150 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:45:40,701 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:46:09,758 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:46:24,249 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:46:32,428 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:46:38,948 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:47:07,790 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:47:22,338 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:47:31,744 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:47:37,411 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:48:06,606 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:48:21,038 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:48:29,350 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:48:35,798 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:49:04,543 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:49:18,924 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:49:28,375 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:49:34,177 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:50:03,398 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:50:17,733 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:50:26,298 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:50:32,255 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:51:00,906 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:51:15,141 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:51:24,592 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:51:30,465 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:51:58,999 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:52:13,100 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:52:21,664 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:52:27,653 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:52:56,000 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:53:10,006 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:53:19,156 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:53:24,943 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:53:53,902 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:54:08,048 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:54:16,270 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:54:22,411 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:54:50,699 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:55:04,724 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:55:13,833 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:55:19,322 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:55:48,242 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:56:02,427 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:56:10,527 INFO    MainThread:1217 [wandb_watch.py:_watch():71] Watching
+2025-05-25 05:56:15,160 INFO    MainThread:1217 [wandb_run.py:_finish():2321] finishing run statieva-ad-mipt/effdl_example/h2iajona
+2025-05-25 05:56:15,160 INFO    MainThread:1217 [wandb_run.py:_atexit_cleanup():2538] got exitcode: 0
+2025-05-25 05:56:15,161 INFO    MainThread:1217 [wandb_run.py:_restore():2520] restore
+2025-05-25 05:56:15,161 INFO    MainThread:1217 [wandb_run.py:_restore():2526] restore done
+2025-05-25 05:56:19,836 INFO    MainThread:1217 [wandb_run.py:_footer_history_summary_info():4188] rendering history
+2025-05-25 05:56:19,841 INFO    MainThread:1217 [wandb_run.py:_footer_history_summary_info():4220] rendering summary
+2025-05-25 05:56:19,842 INFO    MainThread:1217 [wandb_run.py:_footer_sync_info():4149] logging synced files

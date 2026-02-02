@@ -1,0 +1,42 @@
+{
+  "os": "Linux-6.1.123+-x86_64-with-glibc2.35",
+  "python": "CPython 3.11.12",
+  "startedAt": "2025-05-25T05:32:05.151457Z",
+  "args": [
+    "test_pipeline.py",
+    "--cov=train",
+    "--cov-report=term",
+    "--cov-report=html"
+  ],
+  "program": "/usr/local/bin/pytest",
+  "email": "golova.ad@phystech.edu",
+  "root": "wandb_logs",
+  "host": "85bc09a97fee",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "253055008768",
+      "used": "40802660352"
+    }
+  },
+  "memory": {
+    "total": "13608370176"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.4"
+}
